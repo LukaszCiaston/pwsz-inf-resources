@@ -18,3 +18,7 @@ Materiały będą uzupełniane i aktualizowane, również podczas semestru. Wsze
 
 ### Linki
 * [strona z materiałami, `pwsz.rewak.pl`](http://pwsz.rewak.pl/)
+
+Numer indeksu: 40294
+Adres Email: lukasz.ciaston@stud.pwsz.legnica.edu.pl
+Imie i Nazwisko: Łukasz Ciastoń
