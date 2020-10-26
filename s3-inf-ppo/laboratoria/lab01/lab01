@@ -1,0 +1,11 @@
+git init - inicjuje repozytorium
+git remote add origin - dodaje połączenie do serwera
+git pull origin master - ściąga wszystkie ewentualne zmiany
+git status - pokazuje stan repozytorium
+		
+touch readme.md - tworzy plik
+git add . - (kropka po słowie  oznacza, że wybieramy wszystkie pliki dodaje do repozytorium wszystkie pliki
+git status - pokazuje stan repozytorium
+git commit -am "readme" - dodaje commit o tytule {readme}
+git push origin master - przesyła commity na serwer
+	
